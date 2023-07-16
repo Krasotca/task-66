@@ -1,0 +1,15 @@
+D:\Рекурсия\Задача 66\задача66\bin\Debug\net6.0\задача66.exe
+D:\Рекурсия\Задача 66\задача66\bin\Debug\net6.0\задача66.deps.json
+D:\Рекурсия\Задача 66\задача66\bin\Debug\net6.0\задача66.runtimeconfig.json
+D:\Рекурсия\Задача 66\задача66\bin\Debug\net6.0\задача66.dll
+D:\Рекурсия\Задача 66\задача66\bin\Debug\net6.0\задача66.pdb
+D:\Рекурсия\Задача 66\задача66\obj\Debug\net6.0\задача66.csproj.AssemblyReference.cache
+D:\Рекурсия\Задача 66\задача66\obj\Debug\net6.0\задача66.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рекурсия\Задача 66\задача66\obj\Debug\net6.0\задача66.AssemblyInfoInputs.cache
+D:\Рекурсия\Задача 66\задача66\obj\Debug\net6.0\задача66.AssemblyInfo.cs
+D:\Рекурсия\Задача 66\задача66\obj\Debug\net6.0\задача66.csproj.CoreCompileInputs.cache
+D:\Рекурсия\Задача 66\задача66\obj\Debug\net6.0\задача66.dll
+D:\Рекурсия\Задача 66\задача66\obj\Debug\net6.0\refint\задача66.dll
+D:\Рекурсия\Задача 66\задача66\obj\Debug\net6.0\задача66.pdb
+D:\Рекурсия\Задача 66\задача66\obj\Debug\net6.0\задача66.genruntimeconfig.cache
+D:\Рекурсия\Задача 66\задача66\obj\Debug\net6.0\ref\задача66.dll
